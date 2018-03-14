@@ -1,0 +1,4 @@
+model_checkpoint_path: "/home/xiaohui/AI/tensorflow_poems/model/poems-12"
+all_model_checkpoint_paths: "/home/xiaohui/AI/tensorflow_poems/model/poems-0"
+all_model_checkpoint_paths: "/home/xiaohui/AI/tensorflow_poems/model/poems-6"
+all_model_checkpoint_paths: "/home/xiaohui/AI/tensorflow_poems/model/poems-12"
